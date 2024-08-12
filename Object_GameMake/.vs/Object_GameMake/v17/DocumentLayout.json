@@ -5,6 +5,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\graphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:graphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\MySecondGit\\HuntingGame\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +33,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graphics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Graphics.cs",
+              "RelativeDocumentMoniker": "Graphics.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Graphics.cs",
+              "RelativeToolTip": "Graphics.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAlwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:41:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:31:46.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:30:45.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inventoty.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\inventoty.cs",
+              "RelativeDocumentMoniker": "inventoty.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\inventoty.cs",
+              "RelativeToolTip": "inventoty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:30:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MySecondGit\\HuntingGame\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\MySecondGit\\HuntingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MySecondGit\\HuntingGame\\Program.cs",
+              "RelativeToolTip": "..\\..\\MySecondGit\\HuntingGame\\Program.cs",
+              "ViewState": "AQIAAH0DAAAA0I5xV4UJwIQDAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:29:49.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +112,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wBYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:28:54.8Z",
               "EditorCaption": ""

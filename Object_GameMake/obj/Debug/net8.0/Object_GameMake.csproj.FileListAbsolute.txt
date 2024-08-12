@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.sourcelink.json
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\bin\Debug\net8.0\Object_GameMake.exe
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\bin\Debug\net8.0\Object_GameMake.deps.json
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\bin\Debug\net8.0\Object_GameMake.runtimeconfig.json
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\bin\Debug\net8.0\Object_GameMake.dll
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\bin\Debug\net8.0\Object_GameMake.pdb
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.dll
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\refint\Object_GameMake.dll
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.pdb
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\Object_GameMake.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\KGA_OOPConsoleProject\Object_GameMake\obj\Debug\net8.0\ref\Object_GameMake.dll
