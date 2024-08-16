@@ -1,70 +1,82 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
+//using static Object_GameMake.Program;
 
-//namespace Object_GameMake
-//{
-//    internal class Item
-//    {
-//        static void HolySword()
-//        {
-//            Item Holysword = new Item()
-//            {
-//                string itemName = "신성한 검",
-//                type = ItemType.장비아이템,
-//                grade = ItemGrade.Epic,
-//                itemPrice = 5000,
-//            };
-//            Console.WriteLine($"아이템명: {Holysword.itemName}");
-//            Console.WriteLine($"아이템 종류: {Holysword.type}");
-//            Console.WriteLine($"아이템 등급: {Holysword.grade}");
-//            Console.WriteLine($"아이템 가치: {Holysword.itemPrice}");
-//            Console.WriteLine();
+namespace Object_GameMake
+{
+    public enum ItemType
+    {
+        retain, expendables
+    }
+    
 
-//        }
-//        static void CursedAxe()
-//        {
-//            Item Cursedaxe = new Item();
-//            Cursedaxe.itemName = "저주받은 도끼";
-//            Cursedaxe.type = ItemType.장비아이템;
-//            Cursedaxe.grade = ItemGrade.Rare;
-//            Cursedaxe.itemPrice = 3000;
+    internal class Item
+    {
+        public string itemName;
+        public ItemType type;
+        public int str;
+        public int dex;
+        public int intel;
+        public int charm;
+        public int curHp;
+        public int maxHp;
+        public void SmellingSalt()
+        {
+            string itemName = "스멜링 솔트";
+            ItemType type = ItemType.retain;
+            int str = 3;
+            int dex = 3;
+            Console.WriteLine();
 
-//            Console.WriteLine($"아이템명: {Cursedaxe.itemName}");
-//            Console.WriteLine($"아이템 종류: {Cursedaxe.type}");
-//            Console.WriteLine($"아이템 등급: {Cursedaxe.grade}");
-//            Console.WriteLine($"아이템 가치: {Cursedaxe.itemPrice}");
-//            Console.WriteLine();
-//        }
-//        static void Bread()
-//        {
-//            Item Bread = new Item();
-//            Bread.itemName = "맛있는 빵";
-//            Bread.type = ItemType.기타;
-//            Bread.grade = ItemGrade.Common;
-//            Bread.itemPrice = 100;
+        }
 
-//            Console.WriteLine($"아이템명: {Bread.itemName}");
-//            Console.WriteLine($"아이템 종류: {Bread.type}");
-//            Console.WriteLine($"아이템 등급: {Bread.grade}");
-//            Console.WriteLine($"아이템 가치: {Bread.itemPrice}");
-//            Console.WriteLine();
-//        }
-//        static void Gold()
-//        {
-//            Item Gold = new Item();
-//            Gold.itemName = "금화 무더기";
-//            Gold.type = ItemType.골드환산아이템;
-//            Gold.grade = ItemGrade.Common;
-//            Gold.itemPrice = 500;
+        public void PhilosophersStone()
+        {
+            string itemName = "현자의 돌";
+            ItemType type = ItemType.retain;
+            int intel = 3;
+            int charm = 3;
+            Console.WriteLine();
 
-//            Console.WriteLine($"아이템명: {Gold.itemName}");
-//            Console.WriteLine($"아이템 종류: {Gold.type}");
-//            Console.WriteLine($"아이템 등급: {Gold.grade}");
-//            Console.WriteLine($"아이템 가치: {Gold.itemPrice}");
-//            Console.WriteLine();
-//        }
-//    }
-//}
+        }
+
+        public void steroid()
+        {
+            string itemName = "스테로이드";
+            ItemType type = ItemType.expendables;
+            int str = 4;
+            int dex = 4;
+
+            Console.WriteLine();
+
+        }
+
+        public void SmartPotion()
+        {
+            string itemName = "똑똑해지는 물약";
+            ItemType type = ItemType.expendables;
+            int intel = 4;
+            int charm = 4;
+
+            Console.WriteLine();
+
+        }
+        public void figthBook()
+        {
+            string itemName = "싸움잘해지는법 책";
+            ItemType itemType = ItemType.retain;
+            int maxHp = 1;
+        }
+
+        public void HpPotion()
+        {
+            string itemName = "HP 포션";
+            ItemType itemType = ItemType.expendables;
+            int curHp = 2;
+        }
+    }
+}

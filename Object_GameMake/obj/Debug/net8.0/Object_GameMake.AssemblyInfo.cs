@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Object_GameMake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf3f552279bd5758ec470edea2551a6e318e9bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb7400f34a3729fc9256ff7dd7789dba6ecce77f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Object_GameMake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Object_GameMake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

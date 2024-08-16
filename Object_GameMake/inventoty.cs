@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Object_GameMake
 {
-    internal class inventoty
+    internal class Inventoty
     {
+        string[] inventory = new string[6];
     }
 }
