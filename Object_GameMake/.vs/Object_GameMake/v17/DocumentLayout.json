@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\scene_\\scene_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:scene_\\scene_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\scene_\\scene_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:scene_\\scene_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\scene_\\scene_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:scene_\\scene_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:inventoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\scene_\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:scene_\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23F1199B-77D5-4815-8C83-8BC5B4882D14}|Object_GameMake.csproj|c:\\users\\user\\documents\\github\\kga_oopconsoleproject\\object_gamemake\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "GamePlay.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\GamePlay.cs",
               "RelativeDocumentMoniker": "GamePlay.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\GamePlay.cs",
               "RelativeToolTip": "GamePlay.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T02:44:54.049Z",
               "EditorCaption": ""
@@ -73,46 +73,46 @@
               "RelativeDocumentMoniker": "Scene_\\Scene.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene.cs",
               "RelativeToolTip": "Scene_\\Scene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:41:00.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Scene_action.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene_action.cs",
               "RelativeDocumentMoniker": "Scene_\\Scene_action.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene_action.cs",
-              "RelativeToolTip": "Scene_\\Scene_action.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAJAAAA",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene_action.cs*",
+              "RelativeToolTip": "Scene_\\Scene_action.cs*",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowIAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T06:55:41.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Scene_battle.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene_battle.cs",
               "RelativeDocumentMoniker": "Scene_\\Scene_battle.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Scene_\\Scene_battle.cs",
               "RelativeToolTip": "Scene_\\Scene_battle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T06:49:40.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:30:45.131Z",
               "EditorCaption": ""
@@ -125,20 +125,20 @@
               "RelativeDocumentMoniker": "monster.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\monster.cs",
               "RelativeToolTip": "monster.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAmwGYAAAAYAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T02:49:58.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:31:46.886Z",
               "EditorCaption": ""
@@ -149,9 +149,9 @@
               "Title": "Inventoty.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Inventoty.cs",
               "RelativeDocumentMoniker": "Inventoty.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Inventoty.cs",
-              "RelativeToolTip": "Inventoty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\KGA_OOPConsoleProject\\Object_GameMake\\Inventoty.cs*",
+              "RelativeToolTip": "Inventoty.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:30:18.564Z",
               "EditorCaption": ""
@@ -166,8 +166,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T07:28:54.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T07:28:54.8Z"
             }
           ]
         }
